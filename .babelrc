@@ -1,0 +1,12 @@
+{
+  "presets": ["react-static/babel-preset.js"],
+  "plugins": [
+    [
+      "babel-plugin-emotion",
+      {
+        "pure": true,
+        "displayName": true
+      }
+    ]
+  ]
+}
