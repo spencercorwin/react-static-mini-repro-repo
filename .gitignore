@@ -1,6 +1,5 @@
 node_modules
 artifacts/
 dist/
-tmp/
 public/
 .DS_Store
